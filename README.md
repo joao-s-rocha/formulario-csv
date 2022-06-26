@@ -7,5 +7,5 @@
 > - Para inicialização, utilize o arquivo *index.php*
 >   Em linha de comando, entre no diretório onde o código se encontra e execute o seguinte comando:
 >
->>  `php -S localhost:3000`
+    >>  `php -S localhost:3000`
 >
